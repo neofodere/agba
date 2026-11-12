@@ -1,0 +1,2 @@
+-keep class dev.neofodere.agba.core.NativeCore { *; }
+-keepclassmembers enum * { *; }
